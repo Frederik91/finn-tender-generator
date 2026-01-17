@@ -23,7 +23,5 @@ Dette leser `opencode.json` i repoet og viser tilgjengelige servere (f.eks. for 
 - `brukerprofil-mal.md`: mal uten persondata
 - Alt under `annonser/` og `brukerprofil.md` er ignorert i `.gitignore` og blir ikke commitet.
 
-## Viktige regler
-- Ingen automatisert publisering til Finn.no.
-- All annonserelatert tekst skal bruke æ, ø, å.
-- All kode i repoet skal være på engelsk.
+## Notater
+- Dette repoet støtter ikke automatisert publisering til Finn.no. Resultatet fra en generering må kopieres over til Finn.no manuelt.
